@@ -78,34 +78,34 @@ const books = [
         cover: "images/book2/cover.jpg",
         spreads: [
             {
-                left: "images/book2/page1.jpg",
-                right: "images/book2/page2.jpg"
+                left: "images/book2/Page1.jpg",
+                right: "images/book2/Page2.jpg"
             },
              {
-                double: "images/book2/page3-4.jpg"
+                double: "images/book2/Page3-4.jpg"
             },
              {
-                double: "images/book2/page5-6.jpg"
+                double: "images/book2/Page5-6.jpg"
             },
             {
-                double: "images/book2/page7-8.jpg"
+                double: "images/book2/Page7-8.jpg"
             },
             {
-                double: "images/book2/page9-10.png"
+                double: "images/book2/Page9-10.png"
             },
             {
-                left: "images/book2/page11.jpg",
-                right: "images/book2/page12.jpg"
+                left: "images/book2/Page11.jpg",
+                right: "images/book2/Page12.jpg"
             },
               {
-                double: "images/book2/page13-14.jpg"
+                double: "images/book2/Page13-14.jpg"
             },
               {
-                double: "images/book2/page15-16.jpg"
+                double: "images/book2/Page15-16.jpg"
             },
             {
-                left: "images/book2/page17.jpg",
-                right: "images/book2/page12.jpg"
+                left: "images/book2/Page17.jpg",
+                right: "images/book2/Page12.jpg"
             },
         ]
     },
